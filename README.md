@@ -43,6 +43,7 @@ Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polim
 
 
 ‼️ CONCEITOS FUNDAMENTAIS POO ‼️
+
 🔻 DOMÍNIO:
 
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
@@ -55,12 +56,15 @@ Atributos são, basicamente, a estrutura de dados que vai representar a classe. 
 🔻 VARIÁVEL:
 
 Uma “região de memória (do computador) previamente identificada cuja finalidade é armazenar os dados ou informações de um programa por um determinado espaço de tempo”.
+
 🔻 MÉTODO:
 
 Os métodos representam os estados e ações dos objetos e classes.
+
 🔻 OBJETO:
 
 Em POO, objeto é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações). Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados.
+
 🔻 INSTÂNCIA:
 
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
@@ -71,21 +75,25 @@ Uma instância de uma classe é um novo objeto criado dessa classe, com o operad
 Seguem alguns exemplos de como as linguagens de programação podem ser classificadas:
 
 🔺 Nível de abstração:
+
 Baixo Nível: Assembly
 Médio Nível: C, C++, D, Objective C, etc.
 Alto Nível: Java, C#, PHP, Javascript, etc.
 Altíssimo Nível: Python, Ruby, Elixir, etc.
 
 🔺 Paradigma de programação:
+
 Programação Estruturada: C, Pascal, Ada, etc.
 Programação Orientada a Objetos: Java, C#, C++, Objective C, D, etc.
 Programação Funcional: Lisp, Scheme, Erlang, Elixir, etc.
 
 🔺 Linguagens classificadas pela arquitetura da aplicação:
+
 Desktop: C, C++, Object Pascal, Java, etc.
 Web: PHP, Ruby, Javascript, Java, etc.
 
 🔺 Tipo de execução:
+
 Linguagens compiladas: C, C++, Pascal, D, GO, etc.
 Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.
 Linguagens Hibridas: Java, Erlang, Elixir, etc.
@@ -95,6 +103,7 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.
 PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS
 
 🔸 1. Paradigma Imperativo
+
 Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
 Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.
 
